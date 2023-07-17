@@ -27,3 +27,12 @@ console.log(typeof(stars))
 // var 5
 const isValid= true;
 console.log(typeof(isValid))
+
+
+/*
+Congratulations
+You got 10/10 marks
+
+
+Keep Practicing.
+*/
